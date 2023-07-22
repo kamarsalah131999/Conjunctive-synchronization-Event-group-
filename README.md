@@ -1,1 +1,1 @@
-# Conjunctive-synchronization-Event-group-
+# disjunctive-synchronization-Event-group-
